@@ -18,7 +18,10 @@ function Navigation() {
                     </NavLink>
                     <NavLink  className="d-inline p-2 bg-dark text-white" to="/Employee" activeStyle>
                     Employee
-                    </NavLink>            
+                    </NavLink>   
+                    <NavLink  className="d-inline p-2 bg-dark text-white" to="/Test" activeStyle>
+                    Test
+                    </NavLink>          
            </Nav> 
            </Navbar>
         </div>
